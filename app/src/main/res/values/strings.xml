@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">counterApp</string>
+    <string name="counter">0</string>
+    <string name="random_color">Random Color</string>
+    <string name="switch_visibility">Switch Visibility</string>
+    <string name="increment">Increment</string>
+</resources>
